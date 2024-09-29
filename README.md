@@ -6,6 +6,8 @@
 
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=ducyb294&row=1&theme=discord)](https://ducyb294.github.io)
 
+[![Duckzilla](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ducyb294&theme=github)](https://ducyb294.github.io)
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <a href="#" title="ducyb294">
